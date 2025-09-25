@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://codeinplace.stanford.edu">
-    <img width="300px" src="https://raw.githubusercontent.com/theamnabb/Code-In-Place-By-Stanford-University/refs/heads/main/sources/CIP.png" alt="Logo">
+    <img width="200px" src="https://raw.githubusercontent.com/theamnabb/Code-In-Place-By-Stanford-University/refs/heads/main/sources/CIP.png" alt="Logo">
   </a>
   <h3 align="center"></h3>  
   <p align="center">
