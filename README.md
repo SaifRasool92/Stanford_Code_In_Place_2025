@@ -1,5 +1,16 @@
-# Stanford Code in Place 2025 - Section Leader Repository
+<p align="center">
+  <a href="https://codeinplace.stanford.edu">
+    <img width="300px" src="https://raw.githubusercontent.com/theamnabb/Code-In-Place-By-Stanford-University/refs/heads/main/sources/CIP.png" alt="Logo">
+  </a>
+  <h3 align="center"></h3>  
+  <p align="center">
+  </p>
+</p>
 
+<div align='center'>
+<h1>Stanford Code in Place 2025 - Section Leader Repository</h1>
+</div>
+  
 Hello! I'm **Saif Ur Rasool**, the **Section Leader** for **Stanford Code in Place 2025**. This repository is created for my section to organize and share all course-related content, assignments, and resources. I’m excited to work with all of you as we dive into the fundamentals of computer programming!
 
 ---
