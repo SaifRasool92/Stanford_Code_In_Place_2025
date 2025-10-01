@@ -1,12 +1,13 @@
 <p align="center">
   <a href="https://codeinplace.stanford.edu">
-    <img width="300px" src="https://github.com/user-attachments/assets/a016ad20-490d-404f-8d57-9b0608c88392" alt="Logo">
+    <img width="300px" src="https://github.com/user-attachments/assets/00b2dd25-6024-4c8d-b265-8e5db371be96" alt="Logo">
   </a>
   <h3 align="center"></h3>  
   <p align="center">
   </p>
 </p>
 <!--<img width="1080" height="1080" alt="New Project (1)" src="https://raw.githubusercontent.com/theamnabb/Code-In-Place-By-Stanford-University/refs/heads/main/sources/CIP.png" />-->
+
 
 <div align='center'>
 <h1>Stanford Code in Place 2025 - Section Leader Repository</h1>
