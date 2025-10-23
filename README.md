@@ -1,5 +1,7 @@
 <div align="center">
+    <a href='https://codeinplace.stanford.edu'>
     <img width="275px" src="https://github.com/user-attachments/assets/5f796d25-60c7-477b-bde6-4cbec9869520" alt="Logo">
+    </a>
   <!--&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
     <img width="300px" src="https://raw.githubusercontent.com/theamnabb/Code-In-Place-By-Stanford-University/refs/heads/main/sources/CIP.png" alt="Logo">-->
 </div>
