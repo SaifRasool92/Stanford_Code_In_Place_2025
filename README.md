@@ -1,12 +1,16 @@
+<div align="center">
+    <img width="275px" src="https://github.com/user-attachments/assets/5f796d25-60c7-477b-bde6-4cbec9869520" alt="Logo">
+  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
+    <img width="300px" src="https://raw.githubusercontent.com/theamnabb/Code-In-Place-By-Stanford-University/refs/heads/main/sources/CIP.png" alt="Logo">
+</div>
+<!--
 <p align="center">
   <a href="https://codeinplace.stanford.edu">
     <img width="300px" src="https://github.com/user-attachments/assets/00b2dd25-6024-4c8d-b265-8e5db371be96" alt="Logo">
   </a>
-  <h3 align="center"></h3>  
-  <p align="center">
-  </p>
 </p>
 <!--<img width="1080" height="1080" alt="New Project (1)" src="https://raw.githubusercontent.com/theamnabb/Code-In-Place-By-Stanford-University/refs/heads/main/sources/CIP.png" />-->
+    <!--<img width="1000" height="1000" alt="ggg" src="https://raw.githubusercontent.com/theamnabb/Code-In-Place-By-Stanford-University/refs/heads/main/sources/CIP.png" />-->
 
 
 <div align='center'>
