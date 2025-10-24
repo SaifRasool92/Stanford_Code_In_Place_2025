@@ -107,8 +107,11 @@ These sessions aim to create a collaborative, encouraging learning environment t
 
 <h2>Certificate of Completion</h2>
 <div align='center'>
-<img src="https://github.com/user-attachments/assets/b884aa1e-e46c-4027-bcb0-7971ad91fd0e" alt="Stanford Verified Credential" width="100%" />
+    <a href='https://digitalcredential.stanford.edu/check/09E8FB28F122CE1CB9A59536C67B8BE8508A5898A71233B6641137391929242FSm9lSGxRQXdrNk0zc215OFdac2Z6aGFTNFhTTC84VkNCbWZVb3NYOXZHQ1liQlVN'>
+<img src="https://github.com/user-attachments/assets/51426ee0-af15-4353-a315-7eb5e883c512" alt="Stanford Verified Credential" width="100%" />
+    </a>
 </div>
+
 
 
 ---
