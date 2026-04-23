@@ -208,6 +208,9 @@ Section Leader | **Stanford Code in Place 2025**
 
 
 <div>
-<img width="100" alt="Untitled design1" align='right' src="https://github.com/user-attachments/assets/b9e53c38-ac22-49da-8bb8-4e099572a27f" />
+<img width="100" alt="Untitled design1" align='left' src="https://github.com/user-attachments/assets/b9e53c38-ac22-49da-8bb8-4e099572a27f" />
   <!-- <h3 align='center'>&amp; 2025 All Rights Reserved</h3> -->
+
+<img width="100"  alt="professional" align='right' src="https://github.com/user-attachments/assets/7ab3cb7a-703f-404e-8670-0487cab969dd" />
+
 </div>
